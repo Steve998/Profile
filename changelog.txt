@@ -1,0 +1,34 @@
+@Version 	1.4
+@Date		Wednesday, November 26, 2014
+@Author		Dorin Grigoras
+	Update: Youtube Background Player Plugin (fixed jquery msie. changes: assets/plugins/jquery.mb.YTPlayer.js)
+
+@Version 	1.3
+@Date		Thursday, November 13, 2014
+@Author		Dorin Grigoras
+	* Update: Bootstrap to 3.3.1
+	* Update: jQuery to 2.1.1
+	* Renamed: .navbar-brand to .navbar_brand (changes: all html files and layout.css . Reason: bootstrap update)
+	* Removed: jquery.fitvids.min.js - bootstrap responfive video used (changes: all html files, scripts.js - 03. FITVIDS)
+	* New: styled checkboxes (changes: layout.css , elements.css)
+
+@Version 	1.2
+@Date		Tuesday, March 11, 2014
+@Author		Dorin Grigoras
+	* Keep Menu on Top on Medium Devices (changes: layout.css)
+	* Menu Hide on window/menu click - mobile devices (changes: scripts.js)
+	* Fixed Scroll effect on quick click on links (changes: scripts.js)
+
+@Version 	1.1
+@Date		Monday, February 24, 2014
+@Author		Dorin Grigoras
+	* Bootstrap 3.1.1 Update
+	* Bugfix - Portfolio Filter
+	* Bugfix - iPhone Slider
+	* Fullscreen height
+
+
+@Version 	1.0
+@Date		February 01, 2014
+@Author		Dorin Grigoras
+	* Initial Release
